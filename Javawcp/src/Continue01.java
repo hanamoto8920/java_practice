@@ -5,7 +5,7 @@ public class Continue01 {
 			if (n == 4) {
 				continue;
 			}
-			System.out.println("Continue01 = " +  n);
+			System.out.println("Continue01 = " + n);
 		}
 	}
 
